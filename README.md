@@ -16,9 +16,10 @@ And then
 source /opt/ros/kinetic/setup.bash
 catkin build
 ```
-### Without ROS 
-Change the CmakeList to link with tensorflow 
-I test with tensorflow==1.8
+### Without ROS
+Change the CmakeList to link with tensorflow.<br />
+The origin code was tested in tensorflow ==1.8
+
 
 
  
